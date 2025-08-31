@@ -20,18 +20,31 @@
 
 ## 🎯 About Me
 
-> **"Fail fast, learn faster."** — My philosophy for building scalable solutions
+> **"Fail fast, learn faster."** — My philosophy for building enterprise-grade scalable solutions
 
-I'm a **Senior Full-Stack Developer** at **LUMIQ AI** with 3.5+ years of experience crafting enterprise-grade applications that serve thousands of users. When I'm not architecting microservices or optimizing React performance, you'll find me on the badminton court or planning my next travel adventure!
+I'm a **Senior Full-Stack Developer** at **LUMIQ AI** with **3.5+ years** of experience architecting and delivering enterprise-grade applications that serve thousands of users daily. Specialized in building high-performance, scalable solutions using modern JavaScript ecosystems and cloud-native technologies.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🔥 **Currently building:** Scalable full-stack applications with **React, TypeScript & Node.js**
-- 📚 **Learning & Growing:** Advanced **System Design** patterns and **DSA** optimization  
-- 🎯 **Expertise:** Microservices Architecture, Kubernetes orchestration, and **AWS** cloud solutions
-- 🤝 **Open to collaborate:** On innovative open-source projects and challenging web applications
-- 🏆 **Achievements:** AWS Developer Associate Certified | Star Performer 2025-26
-- 💡 **Fun fact:** I've optimized applications to handle **3,500+ unique data entities daily**!
+### 🚀 **Current Focus**
+- **Building:** Enterprise full-stack applications with **React, TypeScript & Node.js**
+- **Mastering:** Advanced **System Design** patterns and **Data Structures & Algorithms**  
+- **Expertise:** Microservices Architecture, Kubernetes orchestration, **AWS** cloud solutions
+- **Passion:** Performance optimization and scalable architecture design
+
+### 🤝 **Collaboration & Growth**
+- **Open to:** Innovative open-source projects, challenging web applications, and enterprise solutions
+- **Mentoring:** Sharing knowledge with junior developers and contributing to tech communities
+- **Learning:** Always expanding knowledge through collaboration with industry experts
+
+### 🏆 **Key Achievements**
+- **AWS Developer Associate Certified** ☁️
+- **Star Performer 2025-26** for outstanding work and customer appreciation
+- **Optimized applications** handling **3,500+ unique data entities daily**
+- **Led 25+ module upgrades** with zero downtime
+
+### 📄 **Resume**
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/your-resume-link/view)
 
 <br clear="both"/>
 
