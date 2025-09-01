@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Hey%20there,%20I'm%20Aviral!&fontSize=50&fontColor=58a6ff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f25808&height=125&section=header&text=Hi,%20I'm%20Aviral%20Goel!&fontSize=35&fontColor=501e02&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer+🚀;3.5%2B+Years+Building+Web+Solutions;MERN+%7C+MEAN+Stack+Expert;AWS+Certified+Developer;Building+AI-Powered+Solutions;Microservices+%26+System+Design" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=f25808&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer+🚀;3.5%2B+Years+Building+Web+Solutions;MERN+%7C+MEAN+Stack+Expert;AWS+Certified+Developer;Building+AI-Powered+Solutions;Microservices+%26+System+Design" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -208,5 +208,5 @@ I'm a **Senior Full-Stack Developer** with **3.5+ years** of experience architec
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f25808&height=120&section=footer"/>
 </div>
