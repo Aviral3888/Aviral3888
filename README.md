@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer+🚀;Building+AI-Powered+Solutions;MERN+%7C+MEAN+Stack+Expert;AWS+Certified+Developer;Microservices+%26+System+Design" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer+🚀;3.5%2B+Years+Building+Web+Solutions;MERN+%7C+MEAN+Stack+Expert;AWS+Certified+Developer;Building+AI-Powered+Solutions;Microservices+%26+System+Design" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ## 🎯 About Me
 
-> **"Crafting resilient and scalable systems, one line of code at a time."**
+> **“Engineering full-stack solutions that are as robust as they are intuitive.”**
 
 I'm a **Senior Full-Stack Developer** with **3.5+ years** of experience architecting and delivering high-performance applications that serve thousands of users daily. I specialize in building robust solutions using modern JavaScript ecosystems, cloud-native technologies, and integrating **Generative AI** to create smarter, more efficient user experiences.
 
@@ -53,7 +53,7 @@ I'm a **Senior Full-Stack Developer** with **3.5+ years** of experience architec
 -   **Exploring the AI Frontier:** I am fascinated by the intersection of AI and web development. I have worked on projects that involve:
     -   **LLM Integration:** Using APIs from **Gemini 2.5 Pro** and **Claude Sonnet** for intelligent response generation.
     -   **Automated Data Extraction:** Leveraged **Google's Document AI** to accurately extract key-value pairs (e.g., name, address, DOB) from unstructured KYC documents and structure the output into clean JSON.
-    -   **AI-Assisted Development:** Enhancing my workflow with tools like **Cursor Pro, GitHub Copilot, and Replit.ai** to accelerate development and improve code quality.
+    -   **AI-Assisted Development:** Enhancing my workflow with tools like **Cursor, GitHub Copilot, and Replit.ai** to accelerate development and improve code quality.
 ---
 
 ## 🛠️ Tech Arsenal
