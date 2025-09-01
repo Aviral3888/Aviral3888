@@ -50,11 +50,10 @@ I'm a **Senior Full-Stack Developer** with **3.5+ years** of experience architec
 
 -   **Deepening My Expertise:** I am actively studying complex **System Design** concepts and advanced **Microservice Patterns**. My goal is to master the architectural principles required to build resilient, fault-tolerant systems at scale.
 
--   **Exploring the AI Frontier:** I am fascinated by the intersection of AI and web development. I'm currently working on projects that involve:
+-   **Exploring the AI Frontier:** I am fascinated by the intersection of AI and web development. I have worked on projects that involve:
     -   **LLM Integration:** Using APIs from **Gemini 2.5 Pro** and **Claude Sonnet** for intelligent response generation.
-    -   **AI-Powered Data Extraction:** Implementing **Google's Document AI** to parse unstructured data and convert it into structured JSON.
-    -   **AI-Assisted Development:** Enhancing my workflow with tools like **Cursor, GitHub Copilot, and Replit.ai** to accelerate development and improve code quality.
-
+    -   **Automated Data Extraction:** Leveraged **Google's Document AI** to accurately extract key-value pairs (e.g., name, address, DOB) from unstructured KYC documents and structure the output into clean JSON.
+    -   **AI-Assisted Development:** Enhancing my workflow with tools like **Cursor Pro, GitHub Copilot, and Replit.ai** to accelerate development and improve code quality.
 ---
 
 ## 🛠️ Tech Arsenal
@@ -76,12 +75,7 @@ I'm a **Senior Full-Stack Developer** with **3.5+ years** of experience architec
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,jenkins,git" />
 </p>
 
-### AI & Generative Development
-<p align="center">
-  <b>LLMs/APIs:</b> Gemini, Claude Sonnet, Google Document AI <br>
-  <b>AI Tools:</b> Cursor Pro, GitHub Copilot, Replit.ai, Lovable.dev
-</p>
-
+<!-- ### AI & Generative Development -->
 
 ### Tools & Environment
 <p>
@@ -197,7 +191,7 @@ I'm a **Senior Full-Stack Developer** with **3.5+ years** of experience architec
 
 <div align="center">
   
-**📧 avigoel.3888@gmail.com** | **📍 Ghaziabad, UP, India**
+**📧 avigoel.3888@gmail.com** | **📍 Noida, UP, India**
 
 </div>
 
