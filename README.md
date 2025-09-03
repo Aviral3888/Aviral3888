@@ -38,7 +38,7 @@ I'm a **Senior Full-Stack Developer** with **3.5+ years** of experience architec
 - **Led 25+ critical module upgrades** with zero downtime.
 
 ### 📄 **Resume**
-[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1u6WPgfJkwudWe-p4ZmTiC-CIXu53MF0R/view)
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1EgtJf5fan1KpwKqoj30jW59L2fEPNQ-n/view)
 
 <br clear="both"/>
 
